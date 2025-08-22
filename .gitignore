@@ -176,15 +176,6 @@ Desktop.ini
 # data/processed/
 # data/external/
 
-# Modelos entrenados
-*.pkl
-*.joblib
-*.h5
-*.model
-
-# Logs
-logs/
-*.log
 
 # Temporary files
 *.tmp
