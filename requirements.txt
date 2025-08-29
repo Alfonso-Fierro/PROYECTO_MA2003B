@@ -43,3 +43,5 @@ traitlets==5.14.3
 tzdata==2025.2
 wcwidth==0.2.13
 xlsxwriter==3.2.5
+scikit-learn==1.7.1
+mahalanobis=1.2.0
